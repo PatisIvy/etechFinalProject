@@ -27,10 +27,7 @@ body{
     justify-content: space-between; 
     background-color: rgba(138, 187, 230, 0.3) ;
 }
-.navbar ul{
-    
-    
-}
+
 .navbar ul li{
     list-style: none;
     display: inline-block;
@@ -60,12 +57,20 @@ body{
     transform: translate(-50%,-50%);
     z-index: -1;
     opacity: 0;
-    transition: top s, opacity:0.5s;
+    transition: all .5s, opacity 0.5s;
 }
 
 
 .navbar ul li:hover::after{
     top: 50%;
     opacity: 1;
+}
+
+/* PARAGRAPH SECTION */
+
+.parag1{
+    font-size: 30px;
+
+
 }
  
