@@ -3,9 +3,8 @@ body{
     padding: 0px;
 }
 
-
-.background1{ 
-   background-image: url(mondstat-bg.png);
+.bg1{ 
+   background-image: url(images/mondstat.jpg);
    height: 100vh;
    width: 100%;
    background-repeat: no-repeat;
