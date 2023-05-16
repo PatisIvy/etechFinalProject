@@ -14,18 +14,39 @@ body{
 }
 
 .logo{
-    width: 300px;
-    margin-left: 0px;
+    width: 250px;
+    margin-left: 100px;
 }
 
 .navbar{
-    width: 85%;
+    width: 100%;
     margin: auto;
     padding: 35px 0;
     display: flex;
     align-items: center;
     justify-content: space-between; 
+    background-color: rgba(138, 187, 230, 0.3) ;
+}
+.navbar ul{
+    
+    
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 0 70px;
+    
 }
 
-.navbar
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.navbar ul li{
+    
+}
+
  
