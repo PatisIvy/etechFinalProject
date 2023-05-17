@@ -79,4 +79,17 @@ body{
      color: whitesmoke;
      padding:40px;
  }
+ /* Content Section*/
+ .Ref1{
+    background-image: url(images/Venti.jpg);
+    height: 600px;
+    width: 600px;
+    background-position: cover;
+    background-size: cover;
+    margin-left: 1150px;
+    margin-top: 100px;
+    border-radius: 10px;
+ }
+
+
  
