@@ -100,7 +100,7 @@ body{
     z-index: 1;
  }
 
- .anemo{
+ .mond2{
     background-image: url(images/1.2.jpg);
     height: 600px;
     width: 600px;
@@ -124,8 +124,8 @@ body{
 
  }
 
- .mond2{
-    background-image: url(images/1.1.jpg);
+ .anemo{
+    background-image: url(images/1.2.jpg);
     height: 600px;
     width: 600px;
     background-position: center;
