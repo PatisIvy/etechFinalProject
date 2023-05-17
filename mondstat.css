@@ -80,16 +80,32 @@ body{
      padding:40px;
  }
  /* Content Section*/
- .Ref1{
+ .venti{
     background-image: url(images/Venti.jpg);
     height: 600px;
     width: 600px;
-    background-position: cover;
+    background-position: center;
     background-size: cover;
     margin-left: 1150px;
     margin-top: 100px;
     border-radius: 10px;
+    border-color: whitesmoke;
+    border-style:solid;
+    border-width: 10px;
+    transition: .5s;
+    flex-direction: row;
+
+    
  }
+ .venti:hover{
+    transform: scale(1.1); 
+    z-index: 1;
+ }
+
+     
+ 
+
+ 
 
 
  
