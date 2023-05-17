@@ -81,8 +81,8 @@ body{
      padding:40px;
  }
  /* Content Section*/
- .venti{
-    background-image: url(images/Venti.jpg);
+ .zhongli{
+    background-image: url(images/Zhongli.jpg);
     height: 600px;
     width: 600px;
     background-position: center;
@@ -96,13 +96,13 @@ body{
     transition: .5s;
     float: left;
  }
- .venti:hover{
+ .zhongli:hover{
     transform: scale(1.1); 
     z-index: 1;
  }
 
- .mond2{
-    background-image: url(images/1.2.jpg);
+ .liyue2{
+    background-image: url(images/2.2.jpg);
     height: 600px;
     width: 600px;
     background-position: center;
@@ -119,14 +119,14 @@ body{
 
  }
 
- .mond2:hover{
+ .liyue2:hover{
     transform: scale(1.1); 
     z-index: 1;
 
  }
 
- .anemo{
-    background-image: url(images/1.1.jpg);
+ .geo{
+    background-image: url(images/2.1.jpg);
     height: 600px;
     width: 600px;
     background-position: center;
@@ -140,7 +140,7 @@ body{
     margin-right: 150px ;
     margin-left: 100px;
  }
- .anemo:hover{
+ .geo:hover{
     transform: scale(1.1); 
     z-index: 1
  }
