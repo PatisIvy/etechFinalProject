@@ -20,11 +20,14 @@ body{
  }
  
  .navbar{
+     width: 100%;
      padding: 35px 0;
      display: flex;
      align-items: center;
      justify-content: space-between; 
      background-color: rgba(138, 187, 230, 0.3) ;
+     margin-top:0px;
+
  }
  
  .navbar ul li{
@@ -73,5 +76,3 @@ body{
      color: whitesmoke;
      padding:40px;
  }
-  
- 
