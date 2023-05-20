@@ -145,3 +145,97 @@ body{
     z-index: 1
  }
  
+ .zhongli-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .zhongli-body:hover{
+    opacity: 1;
+
+ }
+ .zhongli-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .zhongli-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+ .zhongli-body{
+    font-size: 15px;
+ }
+/* 3RD pic */
+.liyue2-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .liyue2-body:hover{
+    opacity: 1;
+
+ }
+ .liyue2-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .liyue2-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
+ /* 2nD pic */
+.geo-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .geo-body:hover{
+    opacity: 1;
+
+ }
+ .geo-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .geo-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
+
+
+ 
