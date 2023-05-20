@@ -176,8 +176,69 @@ body{
     margin-top: 15px;
     margin-left:10px;
  }
+ .venti-body{
+    font-size: 15px;
+ }
+/* 3RD pic */
+.mond2-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
 
- 
+}
+ .mond2-body:hover{
+    opacity: 1;
+
+ }
+ .mond2-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .mond2-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
+ /* 2nD pic */
+.anemo-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .anemo-body:hover{
+    opacity: 1;
+
+ }
+ .anemo-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .anemo-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
 
 
  
