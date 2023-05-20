@@ -144,6 +144,100 @@ body{
     z-index: 1
  }
  
+ .raiden-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .raiden-body:hover{
+    opacity: 1;
+
+ }
+ .raiden-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .raiden-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+ .raiden-body{
+    font-size: 15px;
+ }
+/* 3RD pic */
+.ina2-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .ina2-body:hover{
+    opacity: 1;
+
+ }
+ .ina2-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .ina2-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
+ /* 2nD pic */
+.electro-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .electro-body:hover{
+    opacity: 1;
+
+ }
+ .electro-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .electro-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
+
+
+ 
 
 
   
