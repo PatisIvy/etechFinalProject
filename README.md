@@ -17,3 +17,9 @@ The 4 main pages including navbar layout and adjusting and such, took me a whole
 
 The background images used for the pages was slightly edited by me using a drawing app (krita) so that it could luminate more with the gray filter I added in the code.
 
+My website focuses more on animations since i find that having cute animations in websites are fun and mesmorizing to watch.
+
+When hovering on the picture, the description for each of the images show up and give you a bit more information about them.
+
+Anyways I really like my website and I hope you would enjoy it to!!
+
