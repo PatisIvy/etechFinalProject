@@ -18,9 +18,9 @@ body{
     background-size: cover;
     background-position: center;
  }
- 
+ /* Edit this for other css*/
  .logo{
-     width: 450px;
+     width: 350px;
      margin-left: 100px;
  }
  
@@ -32,11 +32,11 @@ body{
      justify-content: space-between; 
      background-color: rgba(138, 187, 230, 0.3) ;
  }
- 
+ /* change font size */
  .navbar ul li{
      list-style: none;
      display: inline-block;
-     font-size: 50px;
+     font-size: 40px;
      margin: 0 70px;
      position: relative;
      z-index: 2;
@@ -80,13 +80,14 @@ body{
      padding:40px;
  }
  /* Content Section*/
+ /* Edit pic size and margin */
  .venti{
     background-image: url(images/Venti.jpg);
-    height: 600px;
-    width: 600px;
+    height: 400px;
+    width: 400px;
     background-position: center;
     background-size: cover;
-    margin-left: 1150px;
+    margin-left: 775px;
     margin-top: 100px;
     border-radius: 10px;
     border-color: whitesmoke;
@@ -99,13 +100,13 @@ body{
     transform: scale(1.1); 
     z-index: 1;
  }
-
+/* ito rin */
  .mond2{
     background-image: url(images/1.2.jpg);
-    height: 600px;
-    width: 600px;
+    height: 400px;
+    width: 400px;
     background-position: center;
-    background-size: center;
+    background-size: cover;
     margin-left: 150px;
     margin-right: 100px;
     margin-top: 100px;
@@ -123,11 +124,11 @@ body{
     z-index: 1;
 
  }
-
+/* eto rin */
  .anemo{
     background-image: url(images/1.1.jpg);
-    height: 600px;
-    width: 600px;
+    height: 400px;
+    width: 400px;
     background-position: center;
     background-size: cover;
     margin-top: 100px;
