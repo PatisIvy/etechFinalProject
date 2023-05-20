@@ -143,4 +143,99 @@ body{
     transform: scale(1.1); 
     z-index: 1
  }
+
+ .nahida-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .nahida-body:hover{
+    opacity: 1;
+
+ }
+ .nahida-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .nahida-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+ .nahida-body{
+    font-size: 15px;
+ }
+/* 3RD pic */
+.sume2-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+
+}
+ .sume2-body:hover{
+    opacity: 1;
+
+ }
+ .sume2-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .sume2-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
+ /* 2nD pic */
+.dendro-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
+}
+ .dendro-body:hover{
+    opacity: 1;
+
+ }
+ .dendro-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .dendro-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
+
+
+
+ 
+
  
