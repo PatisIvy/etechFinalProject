@@ -144,11 +144,38 @@ body{
     transform: scale(1.1); 
     z-index: 1
  }
- 
 
+.content{
+    margin: 50px;
+}
+.venti-body{
+    width: 380px;
+    height: 380px;
+    top:0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    display:inline-block;  
+    justify-content:end;
+    align-items: center;
+    color: whitesmoke;
+    opacity: 0;
+    transition: .6s;
 
-     
- 
+}
+ .venti-body:hover{
+    opacity: 1;
+
+ }
+ .venti-title{
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .venti-text{
+    margin-top: 15px;
+    margin-left:10px;
+ }
 
  
 
